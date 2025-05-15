@@ -2,7 +2,7 @@
 title: "Concurrency vs Parallelism"
 description: "Understand the difference between concurrency and parallelism in system design."
 image: "https://assets.bytebytego.com/diagrams/0150-concurrency-is-not-parallelism.png"
-createdAt: "2024-03-11"
+createdAt: ""
 draft: false
 categories:
   - software-development
